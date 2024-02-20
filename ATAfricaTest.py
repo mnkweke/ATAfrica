@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set up your OpenAI API key
-openai.api_key = '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'
+openai.api_key = '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'
 
 def clean_text(text):
     # Placeholder function for text preprocessing
